@@ -1,0 +1,6 @@
+{
+  "name": "Torre de Controle de Contêineres",
+  "description": "Torre de controle para consolidação de dados e resolução de divergências entre planilhas e sistemas legados de contêineres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
